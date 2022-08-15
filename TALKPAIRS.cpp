@@ -1,4 +1,5 @@
 // https://www.spoj.com/problems/TALKPAIRS/
+// Done with @arturperec https://github.com/arturperec
 
 #include <cstdio>
 #include <iostream>
